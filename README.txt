@@ -7,7 +7,7 @@ The purposes of each of the following files are stated below:
 
 login.html - the login page, which contain a login form that accepts a username and password combination
 
-new.html - the signup page, which contains a signup form that accepts a username, email, password, verified password, and phone number
+new.html - the sign-up page, which contains a sign-up form that accepts a username, email, password, verified password, and phone number
 
 user.html - the account page, which includes a form with the current logged in user's information
 
