@@ -17,14 +17,16 @@ main.css - the code from main.scss converted to CSS
 
 
 To convert the code from main.scss to CSS after any changes have been made to main.scss, type the following at the prompt >: 
-> node-sass main.scss main.css
+
+\> node-sass main.scss main.css
 
 To run the above command, Node.js will need to be installed, which can be downloaded from: https://nodejs.org/en/.
 
 Additionally, the Node-sass library will need to be installed, which can be done by typing the following at the prompt >:
-> npm i -g node-sass
 
-To switch between the light and dark themes, modify the body tag in login.html, new.html, and user.html to be either <body class = "light-theme"> or <body class = "dark-theme">
+\> npm i -g node-sass
+
+To switch between the light and dark themes, modify the body tag in login.html, new.html, and user.html to be either \<body class = "light-theme"> or \<body class = "dark-theme">
 
 Run the source code by opening the login.html file in a web browser
 
